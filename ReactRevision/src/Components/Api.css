@@ -1,0 +1,11 @@
+.Api{
+    float:left;
+    font-size: 18px;
+    width:600px;
+    margin-left: 30px;
+    background-color: rgb(212, 212, 212);
+}
+#img{
+    width:200px;
+    height:200px;
+}
