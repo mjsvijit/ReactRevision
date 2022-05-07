@@ -1,20 +1,3 @@
 {
-  "employee": [
-    {
-      "id": 1,
-      "name": "bahi",
-      "title": "een",
-      "imgage": "aaaaakkakak",
-      "slary": 0
-    },
-    {
-      "name": "vijit",
-      "title": "asdf",
-      "image": "adf",
-      "slary": "",
-      "password": "cityslicka",
-      "salary": "addsf",
-      "id": 2
-    }
-  ]
+  "employee": []
 }
